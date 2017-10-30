@@ -1,0 +1,4 @@
+ls 
+to show list
+git merge firstbranchname
+git checkout master
