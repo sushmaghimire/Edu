@@ -1,0 +1,3 @@
+git commit -a -m "practise"
+git add -A
+git status to check all new coming
