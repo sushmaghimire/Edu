@@ -1,1 +1,3 @@
 Hi this is me Sushma Ghimire and I'm practising github
+git init 
+git remote add "copylink"
